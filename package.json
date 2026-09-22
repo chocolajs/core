@@ -1,0 +1,21 @@
+{
+  "name": "@chocola/core",
+  "version": "0.0.1",
+  "description": "The sweetest way to build the web",
+  "keywords": [
+    "webdev",
+    "frontend",
+    "ui"
+  ],
+  "license": "MIT",
+  "author": "ChocolaJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "acorn": "^8.18.0",
+    "linkedom": "^0.18.13"
+  }
+}
